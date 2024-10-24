@@ -2,7 +2,6 @@ title: Luke Fisher
 Logo: Images/photo-1.png
 #Description
 show_downloads: false
-# theme: jekyll-theme-minimal
-plugins:
-  - jekyll-remote-theme
-remote_theme: luke-c-fisher/portfolio
+theme: minimal-mistakes-jekyll
+
+

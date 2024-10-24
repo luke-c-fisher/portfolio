@@ -9,7 +9,9 @@ gem 'sass-rails', '>= 6'
 
 bundle install
 
-gem "jekyll-remote-theme"
+gem "minimal-mistakes-jekyll"
+
+bundle
 
 
 

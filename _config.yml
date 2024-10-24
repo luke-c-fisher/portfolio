@@ -3,5 +3,6 @@ Logo: Images/photo-1.png
 #Description
 show_downloads: false
 theme: minimal-mistakes-jekyll
-
+plugins:
+  - jekyll-include-cache
 

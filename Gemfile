@@ -11,7 +11,7 @@ gem 'jekyll-include-cache'
 
 gem "minimal-mistakes-jekyll"
 
-bundle install
+bundle
 
 bundle update
 

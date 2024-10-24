@@ -1,5 +1,5 @@
 title: Luke Fisher 
 Logo: https://github.com/luke-c-fisher/portfolio/blob/main/Images/photo.pdf
 #Description
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal

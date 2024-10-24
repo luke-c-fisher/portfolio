@@ -9,9 +9,9 @@ gem 'sass-rails', '>= 6'
 
 gem 'jekyll-include-cache'
 
-bundle install
-
 gem "minimal-mistakes-jekyll"
+
+bundle install
 
 bundle update
 

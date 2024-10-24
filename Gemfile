@@ -7,6 +7,8 @@ gem 'pg', '>= 0.18', '< 2.0'
 gem 'puma', '~> 5.0'
 gem 'sass-rails', '>= 6'
 
+gem 'jekyll-include-cache'
+
 bundle install
 
 gem "minimal-mistakes-jekyll"

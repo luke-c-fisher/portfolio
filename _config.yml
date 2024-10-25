@@ -1,5 +1,6 @@
 title: "Portfolio"
 name: "Luke Fisher"
+title_separator: "-"
 Logo: Images/photo-1.png
 #Description
 show_downloads: false
